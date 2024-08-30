@@ -1,0 +1,265 @@
+[
+    {
+        "id": "_meta",
+        "name": "Pang i Brygget",
+        "author": "Jonathan Sk\u00e5rstedt",
+        "almanac": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/almanac.html",
+        "firstNight": [
+            "dusk",
+            "minioninfo",
+            "demoninfo",
+            "giftblandare_pang_i_brygget",
+            "spion_pang_i_brygget",
+            "tvtterska_pang_i_brygget",
+            "bibliotekarie_pang_i_brygget",
+            "detektiv_pang_i_brygget",
+            "kock_pang_i_brygget",
+            "siare_pang_i_brygget",
+            "betjnt_pang_i_brygget"
+        ],
+        "otherNight": [
+            "dusk",
+            "minioninfo",
+            "demoninfo",
+            "giftblandare_pang_i_brygget",
+            "munk_pang_i_brygget",
+            "spion_pang_i_brygget",
+            "scharlakansfrun_pang_i_brygget",
+            "satunge_pang_i_brygget",
+            "korpvakt_pang_i_brygget",
+            "ddgrvare_pang_i_brygget",
+            "empat_pang_i_brygget",
+            "siare_pang_i_brygget",
+            "betjnt_pang_i_brygget"
+        ]
+    },
+    {
+        "id": "tvtterska_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/tvtterska_pang_i_brygget.png",
+        "firstNightReminder": "Visa Bybo-brickan. Peka p\u00e5 b\u00e5de BYBO och FEL-spelarna.",
+        "reminders": [
+            "Bybo",
+            "Fel"
+        ],
+        "name": "Tv\u00e4tterska",
+        "team": "townsfolk",
+        "ability": "Du b\u00f6rjar veta att 1 av 2 spelare \u00e4r en viss bybo.",
+        "firstNight": 13
+    },
+    {
+        "id": "bibliotekarie_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/bibliotekarie_pang_i_brygget.png",
+        "firstNightReminder": "Visa Utb\u00f6ling-brickan. Peka p\u00e5 UTB\u00d6LING och FEL-spelarna.",
+        "reminders": [
+            "Utb\u00f6ling",
+            "Fel"
+        ],
+        "name": "Bibliotekarie",
+        "team": "townsfolk",
+        "ability": "Du b\u00f6rjar veta att 1 av 2 spelare \u00e4r en viss utb\u00f6ling. (Eller att noll \u00e4r i spel.)",
+        "firstNight": 14
+    },
+    {
+        "id": "detektiv_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/detektiv_pang_i_brygget.png",
+        "firstNightReminder": "Visa Underhuggar-brickan. Peka p\u00e5 UNDERHUGGARE och FEL-spelarna.",
+        "reminders": [
+            "Underhuggare",
+            "Fel"
+        ],
+        "name": "Detektiv",
+        "team": "townsfolk",
+        "ability": "Du b\u00f6rjar veta att 1 av 2 spelare \u00e4r en viss underhuggare.",
+        "firstNight": 15
+    },
+    {
+        "id": "kock_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/kock_pang_i_brygget.png",
+        "firstNightReminder": "Ge en signal med ett antal fingrar.",
+        "name": "Kock",
+        "team": "townsfolk",
+        "ability": "Du b\u00f6rjar veta hur m\u00e5nga par av onda spelare det finns.",
+        "firstNight": 16
+    },
+    {
+        "id": "empat_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/empat_pang_i_brygget.png",
+        "firstNightReminder": "Ge en signal med ett antal fingrar.",
+        "otherNightReminder": "Ge en signal med ett antal fingrar.",
+        "name": "Empat",
+        "team": "townsfolk",
+        "ability": "Varje natt så l\u00e4r du dig hur m\u00e5nga av dina 2 levande grannar \u00e4r onda.",
+        "firstNight": 17,
+        "otherNight": 9
+    },
+    {
+        "id": "siare_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/siare_pang_i_brygget.png",
+        "firstNightReminder": "Siaren v\u00e4ljer 2 spelare. Nicka ifall n\u00e5gon \u00e4r demonen (eller VILLOSP\u00c5R).",
+        "otherNightReminder": "Siaren v\u00e4ljer 2 spelare. Nicka ifall n\u00e5gon \u00e4r demonen (eller VILLOSP\u00c5R).",
+        "reminders": [
+            "Villosp\u00e5r"
+        ],
+        "name": "Siare",
+        "team": "townsfolk",
+        "ability": "Varje natt, v\u00e4lj 2 spelare; du l\u00e4r dig ifall n\u00e5gon av dem \u00e4r demon. Det finns en god spelare som l\u00e4ses som demon av dig.",
+        "firstNight": 18,
+        "otherNight": 10
+    },
+    {
+        "id": "ddgrvare_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/ddgrvare_pang_i_brygget.png",
+        "otherNightReminder": "Ifall en spelare blev avr\u00e4ttad idag, visa deras karakt\u00e4rsbricka.",
+        "reminders": [
+            "Avr\u00e4ttad"
+        ],
+        "name": "D\u00f6dgr\u00e4vare",
+        "team": "townsfolk",
+        "ability": "Varje natt*, l\u00e4r du dig vilken karakt\u00e4r som blev avr\u00e4ttad idag.",
+        "otherNight": 8
+    },
+    {
+        "id": "munk_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/munk_pang_i_brygget.png",
+        "otherNightReminder": "Munken v\u00e4ljer en spelare.",
+        "reminders": [
+            "Skyddad"
+        ],
+        "name": "Munk",
+        "team": "townsfolk",
+        "ability": "Varje natt*, v\u00e4lj en spelare (inte dig sj\u00e4lv); de \u00e4r skyddade fr\u00e5n demonen inatt.",
+        "otherNight": 3
+    },
+    {
+        "id": "korpvakt_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/korpvakt_pang_i_brygget.png",
+        "otherNightReminder": "Ifall korpvakten dog inatt s\u00e5 v\u00e4ljer korpvakten en spelare. Visa den spelares karakt\u00e4rsbricka.",
+        "name": "Korpvakt",
+        "team": "townsfolk",
+        "ability": "Ifall du d\u00f6r p\u00e5 natten blir du v\u00e4ckt att v\u00e4lja en spelare; du l\u00e4r dig deras karakt\u00e4r.",
+        "otherNight": 7
+    },
+    {
+        "id": "jungfru_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/jungfru_pang_i_brygget.png",
+        "reminders": [
+            "F\u00f6rbrukad"
+        ],
+        "name": "Jungfru",
+        "team": "townsfolk",
+        "ability": "Den f\u00f6rsta g\u00e5ngen du blir nominerad, ifall den nominerande var en bybo, blir hen avr\u00e4ttad direkt."
+    },
+    {
+        "id": "baneman_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/baneman_pang_i_brygget.png",
+        "reminders": [
+            "F\u00f6rbrukad"
+        ],
+        "name": "Baneman",
+        "team": "townsfolk",
+        "ability": "En g\u00e5ng per spel, under dagen, v\u00e4lj publikt en spelare; ifall de \u00e4r demonen s\u00e5 d\u00f6r de."
+    },
+    {
+        "id": "soldat_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/soldat_pang_i_brygget.png",
+        "name": "Soldat",
+        "team": "townsfolk",
+        "ability": "Du \u00e4r skyddad fr\u00e5n demonen."
+    },
+    {
+        "id": "borgmstare_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/borgmstare_pang_i_brygget.png",
+        "name": "Borgm\u00e4stare",
+        "team": "townsfolk",
+        "ability": "Ifall enbart 3 spelare lever och ingen avr\u00e4ttning sker s\u00e5 vinner ditt lag. Ifall du d\u00f6r under natten kan en annan spelare d\u00f6 i ditt st\u00e4lle."
+    },
+    {
+        "id": "betjnt_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/betjnt_pang_i_brygget.png",
+        "firstNightReminder": "Betj\u00e4nten v\u00e4ljer en spelare.",
+        "otherNightReminder": "Betj\u00e4nten v\u00e4ljer en spelare.",
+        "reminders": [
+            "Husbonde"
+        ],
+        "name": "Betj\u00e4nt",
+        "team": "outsider",
+        "ability": "Varje natt, v\u00e4lj en spelare (inte dig sj\u00e4lv); imorgon f\u00e5r du bara r\u00f6sta ifall de ocks\u00e5 r\u00f6star.",
+        "firstNight": 19,
+        "otherNight": 11
+    },
+    {
+        "id": "fyllo_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/fyllo_pang_i_brygget.png",
+        "reminders": [
+            "Fyllo"
+        ],
+        "name": "Fyllo",
+        "team": "outsider",
+        "ability": "Du vet inte om att du \u00e4r fyllo. Du tror att du \u00e4r en bybo, men det \u00e4r du inte."
+    },
+    {
+        "id": "enstring_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/enstring_pang_i_brygget.png",
+        "name": "Enst\u00f6ring",
+        "team": "outsider",
+        "ability": "Du kan l\u00e4sas som ond, underhuggare eller demon, \u00e4ven ifall du \u00e4r d\u00f6d."
+    },
+    {
+        "id": "helgon_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/helgon_pang_i_brygget.png",
+        "name": "Helgon",
+        "team": "outsider",
+        "ability": "Ifall du d\u00f6r av avr\u00e4ttning s\u00e5 f\u00f6rlorar ditt lag."
+    },
+    {
+        "id": "giftblandare_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/giftblandare_pang_i_brygget.png",
+        "firstNightReminder": "Giftblandaren v\u00e4ljer en spelare.",
+        "otherNightReminder": "Giftblandaren v\u00e4ljer en spelare.",
+        "reminders": [
+            "F\u00f6rgiftad"
+        ],
+        "name": "Giftblandare",
+        "team": "minion",
+        "ability": "Varje natt, v\u00e4lj en spelare; de \u00e4r f\u00f6rgiftade inatt och imorgon dag.",
+        "firstNight": 11,
+        "otherNight": 2
+    },
+    {
+        "id": "spion_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/spion_pang_i_brygget.png",
+        "firstNightReminder": "Visa grimoiren s\u00e5 l\u00e4nge spionen beh\u00f6ver.",
+        "otherNightReminder": "Visa grimoiren s\u00e5 l\u00e4nge spionen beh\u00f6ver.",
+        "name": "Spion",
+        "team": "minion",
+        "ability": "Varje natt s\u00e5 f\u00e5r du se grimoiren. Du kan l\u00e4sas som god, bybo eller utb\u00f6ling, \u00e4ven ifall du \u00e4r d\u00f6d.",
+        "firstNight": 12,
+        "otherNight": 4
+    },
+    {
+        "id": "scharlakansfrun_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/scharlakansfrun_pang_i_brygget.png",
+        "otherNightReminder": "Ifall scharlakansfrun blev demon idag, visa dem YOU ARE-brickan och sedan demonbrickan.",
+        "name": "Scharlakansfrun",
+        "team": "minion",
+        "ability": "Ifall det \u00e4r 5 eller fler spelare vid liv & demonen d\u00f6r s\u00e5 blir du demonen. (Resen\u00e4rer r\u00e4knas ej.)",
+        "otherNight": 5
+    },
+    {
+        "id": "friherre_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/friherre_pang_i_brygget.png",
+        "setup": true,
+        "name": "Friherre",
+        "team": "minion",
+        "ability": "Det finns fler utb\u00f6lingar i spel. [+2 utb\u00f6lingar]"
+    },
+    {
+        "id": "satunge_pang_i_brygget",
+        "image": "https:\/\/www.bloodstar.xyz\/p\/nyson\/Pang_i_Brygget\/satunge_pang_i_brygget.png",
+        "otherNightReminder": "Satungen v\u00e4ljer en spelare. Ifall satungen v\u00e4ljer sig sj\u00e4lv s\u00e5 ers\u00e4tt en levande underhuggar-token med en satunge-token. L\u00e4gg den gamla satungen. V\u00e4ck den nya satungen. Visa YOU ARE-brickan, d\u00e4refter visa demonbrickan.",
+        "name": "Satunge",
+        "team": "demon",
+        "ability": "Varje natt*, v\u00e4lj en spelare; de d\u00f6r. Ifall du d\u00f6dar dig sj\u00e4lv p\u00e5 det h\u00e4r s\u00e4ttet s\u00e5 blir en underhuggare Satunge.",
+        "otherNight": 6
+    }
+]
